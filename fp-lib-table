@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Connectors)(type Github)(uri https://github.com/johslarsen/Connectors.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/Connectors.pretty)(descr ""))
+  (lib (name Misc)(type Github)(uri https://github.com/johslarsen/Misc.pretty)(options allow_pretty_writing_to_this_dir=${KIPRJMOD}/lib/Misc.pretty)(descr ""))
+)
