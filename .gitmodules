@@ -1,0 +1,6 @@
+[submodule "lib/Connectors.pretty"]
+	path = lib/Connectors.pretty
+	url = ../Connectors.pretty
+[submodule "lib/Misc.pretty"]
+	path = lib/Misc.pretty
+	url = ../Connectors.pretty
